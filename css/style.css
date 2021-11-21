@@ -477,7 +477,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
-  background: url("intro-bg.png") top center;
+  background: url("https://github.com/nishkaam/arpit.github.io/blob/22c3b11212637877771d8509ac2f9b3da0899181/intro-bg.png");
   background-size:contain;
   background-repeat:no-repeat;
  background-color:#9d5c4a;
