@@ -480,7 +480,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: url(../img/intro-bg.jpg) top center;
   background-size:contain;
   background-repeat:no-repeat;
- background-color:#9d5c4a;
+ 
 
   overflow: hidden;
   position: relative;
